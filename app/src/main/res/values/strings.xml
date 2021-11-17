@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherDemoTest</string>
+    <string name="dialog_please_waiting">Please Waiting</string>
+</resources>
